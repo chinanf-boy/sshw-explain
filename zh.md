@@ -19,6 +19,8 @@ go get -u github.com/yinheli/sshw/cmd/sshw
 
 ## 配置
 
+> 其实最好不要明文写入这些，密码信息
+
 将配置文件放入`~/.sshw`.
 
 配置示例:
