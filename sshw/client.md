@@ -59,8 +59,10 @@ type defaultClient struct {
 
 组织ssh请求的配置
 
+
+
 ```go
-func NewClient(node *Node) Client {
+func NewClient(node *Node) Client { // 看清楚这里，是接口类型Client
 	u, err := user.Current()
 	if err != nil {
 		l.Error(err)
