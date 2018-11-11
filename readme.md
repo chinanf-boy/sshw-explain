@@ -18,13 +18,12 @@
 <!-- name = 'yinheli' -->
 <!-- repo = 'sshw' -->
 <!-- commit = '54736d83523db4c394c13fc08d98e6028e11f770' -->
-
-| 版本     | 与日期        | 最新更新   | 更多               |
-| -------- | ------------- | ---------- | ------------------ |
-| [commit] | ⏰ 2018-10-16 | ![version] | [源码解释][source] |
+版本 | 与日期 | 最新更新 | 更多
+---|---|---|---
+[commit] | ⏰ 2018-10-16 | ![version] | [源码解释][source]
 
 [commit]: https://github.com/yinheli/sshw/tree/54736d83523db4c394c13fc08d98e6028e11f770
-[version]: https://img.shields.io/npm/v/sshw.svg
+[version]: https://img.shields.io/github/last-commit/yinheli/sshw.svg
 
 <!-- doc-templite END generated -->
 
